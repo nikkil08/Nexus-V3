@@ -141,5 +141,5 @@ MIT — do whatever you want with it.
 ---
 
 <div align="center">
-  <strong>NEXUS</strong> · built by Nikkil Prithivn · Tamil Nadu, India
+  <strong>NEXUS</strong> · built by Nikkil Prithivn
 </div>
